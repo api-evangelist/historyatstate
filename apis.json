@@ -1,0 +1,48 @@
+{
+    "name": "HistoryAtState",
+    "description": "<p>The Office of the Historian is an office of the United States Department of State within the Bureau of Public Affairs. The Office is responsible, under law, for the preparation and publication of the official historical documentary record of U.S. foreign policy in the Foreign Relations of the United States series. It researches and writes historical studies on aspects of U.S. diplomacy for use by policymakers in the Department and in other agencies as well for the public.<\/p>",
+    "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/440px-Department_of_state.svg.png",
+    "tags": [
+        "api provider",
+        "have api"
+    ],
+    "created": "2019-12-19",
+    "modified": "2019-12-19",
+    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/historyatstate\/master\/apis.json",
+    "specificationVersion": "0.14",
+    "apis": [
+        {
+            "name": "HistoryAtState",
+            "description": null,
+            "image": "http:\/\/kinlane-productions.s3.amazonaws.com\/api-evangelist-site\/company\/logos\/440px-Department_of_state.svg.png",
+            "humanURL": "http:\/\/history.state.gov",
+            "baseURL": "",
+            "tags": [],
+            "properties": [
+                {
+                    "type": "x-openapi",
+                    "url": "https:\/\/raw.githubusercontent.com\/api-evangelist\/1forge\/master\/historyatstate-openapi.json"
+                }
+            ]
+        }
+    ],
+    "include": [],
+    "x-common": [
+        {
+            "type": "Developers",
+            "url": "http:\/\/history.state.gov\/developer"
+        },
+        {
+            "type": "Twitter",
+            "url": "https:\/\/twitter.com\/HistoryAtState"
+        },
+        {
+            "type": "Website",
+            "url": "http:\/\/history.state.gov"
+        },
+        {
+            "type": "Wikipedia",
+            "url": "http:\/\/en.wikipedia.org\/wiki\/Office_of_the_Historian"
+        }
+    ]
+}
